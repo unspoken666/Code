@@ -4,7 +4,7 @@
 # In[ ]:
 
 
-#KochDrawV1.py
+#KochDrawV2.py
 import turtle
 def koch(size,n):
     if n == 0:
