@@ -5,7 +5,7 @@
 
 
 #等边三角形绘制
-import turtle as t
+import turtle as t #引进turtle库，绘图，并起了一个别名
 t.fd(100)
 t.seth(120)
 t.fd(100)
