@@ -47,3 +47,8 @@ items.sort(key=lambda x:x[1],reverse=True)
 for i in range(10):
     word,count = items[i]
     print("{0:<10}{1:>5}".format(word,count))
+
+print()
+#通过不断删除不是名字的单词，得到人物排名前十的结果
+
+
