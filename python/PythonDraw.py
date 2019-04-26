@@ -99,4 +99,22 @@ def main():
     
     
 main()
-    
+
+#自定义蟒蛇绘制
+#PythonDraw.py  绘制蟒蛇
+import turtle   #引入了一个库 绘图库 海龟图
+turtle.setup(1000,350,200,200)
+turtle.penup()
+turtle.fd(-400)
+turtle.pendown()
+turtle.pensize(50)
+turtle.pencolor("green")
+turtle.seth(-90)
+for i in range(4):
+    turtle.circle(40,180)
+    turtle.circle(-40,180)
+turtle.circle(40,180/2)
+turtle.fd(100)
+turtle.circle(40,180)
+turtle.fd(100 * 2/3)
+turtle.done()
