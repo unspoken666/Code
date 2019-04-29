@@ -73,4 +73,20 @@ for i in range(3,500,4):
     t.left(90)
     t.fd(i)
     
+#绘制同切圆
+import turtle
+turtle.pensize(2)
+turtle.circle(10)
+turtle.circle(40)
+turtle.circle(80)
+turtle.circle(160)
+
+#绘制五角星
+from turtle import *
+color('red', 'red')
+begin_fill()
+for i in range(5):
+    fd(200)
+    rt(144)
+end_fill()
 
