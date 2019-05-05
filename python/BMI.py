@@ -11,10 +11,12 @@ Complete the procedure as required:
 Write three functions to calculate the value of BMI, the recommended value of international BMI indicator, and the recommended value of domestic BMI indicator;
 Combined with abnormal processing, the BMI value is calculated and output according to the weight and height input by the user, and the recommended values of the international and domestic BMI indicators are simultaneously output;'''
 
+
 def computeBMI(height,weight):
     """compute BMI value based on height and weight"""
     BMI = weight/(height**2)
     return BMI
+
 
 def internationalBMI(BMI):
     """return international BMI index, the input parameter is BMI value"""
@@ -28,6 +30,7 @@ def internationalBMI(BMI):
         nat = "肥胖"
     print(nat)
     return nat
+
 
 def domesticBMI(BMI):
     """return domestic BMI index, the input parameter is BMI value"""
