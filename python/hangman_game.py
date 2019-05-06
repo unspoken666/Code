@@ -19,6 +19,7 @@ def isWordGuessed(secretWord, lettersGuessed):
     else:
         return False
 
+
 def getGuessedWord(secretWord, lettersGuessed):
     '''
     secretWord: string, the word the user is guessing
@@ -63,10 +64,9 @@ def getAvailableLetters(lettersGuessed):
             ls.remove(i)
     return "".join(ls)
 
+
 import random
-
 WORDLIST_FILENAME = "words.txt"
-
 def loadWords():
     """
     Returns a list of valid words. Words are strings of lowercase letters.
