@@ -19,6 +19,7 @@ should be no spaces between the asterisks on the top line:
 **
 *
 """
+
 #Write your code here!
 n = eval(input("please input num:"))
 for i in range(n):
@@ -31,7 +32,8 @@ for i in range(n):
         else:
             print(" ",end='')           
     print()  
-    
+
+
 #another method
 n = int(input("Enter a positive integer: "))
 if n > 1:
@@ -41,4 +43,5 @@ if n > 1:
     print("*")
 if n == 1:
     print("*")
+
 
