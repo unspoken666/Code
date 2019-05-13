@@ -2,6 +2,8 @@
 #include<string.h>
 #include<math.h>
 
+//将输入的 2 进制字符串转换为 10 进制数输出
+
 int TwoToTen(char * str2)
 {
 	int len = strlen(str2);
