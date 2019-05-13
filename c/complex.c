@@ -1,4 +1,8 @@
 #include <stdio.h>  
+
+//设计一个复数类型，输入实部和虚部生成一个复数，可进行两个复数求和、两个
+//复数求差、两个复数求积运算。
+
 typedef struct complex
 {
 	int re;
