@@ -4,8 +4,11 @@
 #define SIZE 1024
 #define MAXSIZE 80
 
+//¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿ 80¿
+
 int main()
 {
+
 	//¶¨ÒåÒ»¸öÃû½ĞfpÎÄ¼şÖ¸Õë
 	FILE *fp1,*fp2;
 	char buffer1[SIZE] = "";
@@ -42,6 +45,6 @@ int main()
 
 	fclose(fp1);
 	fclose(fp2);
-	
 	return 0;
+
 }
