@@ -3,6 +3,9 @@
 #include <string.h>
 #include <errno.h>
 
+//¿¿¿¿ num1.txt ¿ num2.txt ¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿ num1.txt ¿
+//num2.txt ¿¿¿¿¿¿¿¿¿¿¿¿ num3.txt ¿
+
 void sort(int *a, int len)
 {
 	int i;
