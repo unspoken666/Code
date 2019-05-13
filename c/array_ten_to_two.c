@@ -1,6 +1,9 @@
 #include<stdio.h>
 #include<string.h>
 
+//用一个整型数组表示 10 进制大整数，数组的每个元素存储大整数的一位数字，将
+//这个大整数转换为 2 进制数输出
+
 int main()
 {
 	char m[1001];
