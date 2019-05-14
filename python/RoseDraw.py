@@ -3,7 +3,6 @@
 
 # In[ ]:
 
-
 #RoseDraw.py
 import turtle as t
 
@@ -102,5 +101,6 @@ t.pendown()
 t.right(30)
 t.circle(-600*s,35)
 t.done()
+
 
 
