@@ -48,7 +48,6 @@ def translate(seq):
         protein += table[seq[i:i+3]]
     return protein
 
-
 def encode_dict(encryption_key):
     # your code is here
     alphabet = string.ascii_lowercase + " "
