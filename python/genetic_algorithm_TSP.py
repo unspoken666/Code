@@ -3,7 +3,6 @@
 
 # In[4]:
 
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -221,8 +220,8 @@ def main():
 
     plt.plot(list(range(len(register))),register)
     plt.show()
-main()
 
+main()
 
 # In[ ]:
 
