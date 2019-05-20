@@ -19,6 +19,7 @@ void sort(char *a, int len)
 		}
 	}
 }
+
 int main()
 {
 	FILE *fp1, *fp2, *fp3;
@@ -62,3 +63,4 @@ int main()
 
 	return 0;
 }
+
