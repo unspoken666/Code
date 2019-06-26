@@ -29,7 +29,3 @@ def main():
     turtle.hideturtle()
 main()
 
-
-
-
-
