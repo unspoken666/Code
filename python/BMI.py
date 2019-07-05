@@ -77,3 +77,7 @@ height,weight = eval(input("请输入身高(米)和体重(公斤)[用逗号隔�
 who,nat = international_domesicBMI(height,weight)
 print("BMI指标为;国际'{0},国内'{1}".format(who,nat))
 
+
+
+
+
