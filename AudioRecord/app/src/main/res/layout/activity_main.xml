@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/hint"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:singleLine="false"
+        />
+
+
+    <Button
+        android:id="@+id/start_record"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start Recording"
+        android:textAllCaps="false"
+        />
+
+    <Button
+        android:id="@+id/stop_record"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Stop Recording"
+        android:textAllCaps="false"
+        />
+
+
+    <EditText
+        android:id="@+id/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="please enter ID" />
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="127dp"
+        android:orientation="horizontal"
+        tools:context=".MainActivity">
+
+        <Button
+            android:id="@+id/register"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Register"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/log_in"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Login"
+            android:textAllCaps="false" />
+
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/state"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="24sp" />
+</LinearLayout>
