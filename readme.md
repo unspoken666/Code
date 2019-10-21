@@ -12,10 +12,8 @@
 
 
 * good good study, day day up!
-* where there is a life,there is a hope!
+* where there is a will,there is a hope!
 * Good begun is half done.
-
-
 
 
 
