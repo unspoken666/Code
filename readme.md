@@ -12,8 +12,10 @@
 
 
 * Good good study, day day up!
-* where there is a will,there is a hope!
-* Well begun is half done.
+* Where there is a will,there is a hope!
+* Well begun is half done!
+* All work and no play make Jack a dull boy!
+
 
 
 
