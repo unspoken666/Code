@@ -16,12 +16,7 @@
 * Well begun is half done!
 * All work and no play make Jack a dull boy!
 * It is never too old to learn!
-* No pains,no gains
-
-
-
-
-!
+* No pains,no gains!
 
 
 
