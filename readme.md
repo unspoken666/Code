@@ -19,6 +19,3 @@
 * No pains,no gains!
 
 
-
-
-
