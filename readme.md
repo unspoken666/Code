@@ -8,7 +8,8 @@
 * git add [filename]
 * git commit -m "message"
 * git push origin master
-
+* git push origin master -f //强制
+* git pull  //拉回
 
 
 * Good good study, day day up!
@@ -17,11 +18,7 @@
 * All work and no play make Jack a dull boy!
 * It is never too old to learn!
 * No pains,no gains!
-* need is word,word has word!
-
-
-
-
+* Need is word,word has word!
 
 
 
