@@ -26,7 +26,6 @@ class Solution {
 
     //判断回文数
     public boolean isPalindrome(int x) {
-
         if(x<0){
             return false;
         }else if(reverse(x)==x){
@@ -34,7 +33,6 @@ class Solution {
         }else {
             return false;
         }
-
     }
 
     //罗马数字转整数
@@ -77,9 +75,5 @@ class Solution {
             }
         }
         return sum;
-
     }
-
-
-
 }
