@@ -5,6 +5,3 @@
 * I have learned Java's multithreading.
 * I am learning Java network programming. 
 
-
-
-
