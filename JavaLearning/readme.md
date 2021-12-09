@@ -1,4 +1,4 @@
-# Here is the code record of my learning Java！
+# Here is the code record of my Java learning！
 * I will do programming problems on leetcode every day.
 * I am learning Java by watching vedio and coding by myself.
 * I have learned the basic grammar of Java, namely Java SE.
