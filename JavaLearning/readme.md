@@ -5,5 +5,3 @@
 * I have learned Java's multithreading.
 * I am learning Java network programming. 
 * I am learning Java framwork, such as mybatis, spring, spring boot and so on.
-
-
